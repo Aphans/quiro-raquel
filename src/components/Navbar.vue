@@ -32,7 +32,7 @@
 
 <script setup>
 import {ref} from 'vue';
-  const show = ref(true);
+  const show = ref(false);
 </script>
 <style scoped>
   .absolute {
