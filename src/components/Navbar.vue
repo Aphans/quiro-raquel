@@ -13,7 +13,7 @@
       <router-link to="/contact" class="px-4 py-2 ml-8 text-lg font-medium hover:text-gray-300">Contacto</router-link>
     </div>
     <div class="block sm:hidden">
-      <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" @click="show = !show">
+      <button class="bg-blue-700 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" @click="show = !show">
         <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
           <title>Menú</title>
           <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/>
